@@ -5,8 +5,9 @@ my try on https://en.wikipedia.org/wiki/Flow-based_programming or https://en.wik
 
 
 
-This work is licensed under a
+This work is licensed under a 
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 
@@ -15,7 +16,7 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by].
+[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
