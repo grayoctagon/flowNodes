@@ -1,0 +1,74 @@
+
+body{
+	background-color:rgb(128,128,128);
+	margin: 0px;
+	font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+#loadingbar{
+	position: fixed;
+	top:-30px;
+	transition-property: top;
+	transition-duration: 2s;
+	transition-timing-function: ease-in-out;
+	
+	margin: 2px 12px;
+	padding: 3px 7px;
+	background-color: #ff00009c;
+	border-radius: 8px;
+}
+
+#header{
+	width: 100%;
+	background-color: rgb(106 106 106);
+	display: block;
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: bold;
+}
+#headerContent{
+	padding: 20px 65px;
+}
+
+#flowList{
+	display: inline;
+}
+
+
+#exampleNodes{
+	display: inline;
+	border: black 1px solid;
+	margin: 8px;
+	background: rgb(166 166 166);
+	position: absolute;
+}
+
+
+#flowArea{
+	display: inline;
+	border: black 1px solid;
+	margin: 8px;
+	background: rgb(166 166 166);
+	position: absolute;
+	left:68px;
+	
+	background-image:
+		repeating-linear-gradient(#ccc 0 1px, transparent 1px 100%),
+		repeating-linear-gradient(90deg, #ccc 0 1px, transparent 1px 100%);
+	background-size: 20px 20px;
+	background-position: -1px -1px;
+}
+
+.nodeEl{
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+	display: block;
+	border: black 1px solid;
+	margin: -1px;
+	background: rgb(166 166 166);
+}
+
+
+
